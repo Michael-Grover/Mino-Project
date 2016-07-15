@@ -1,0 +1,62 @@
+h1{
+    font-family: helvetica;
+    z-index: 2;
+    font-size: 50px;
+    color: darkgray;
+}
+
+h1:hover{
+    color: red;   
+    
+}
+
+.interfaceWrap{
+    position: fixed;
+    left:20px;
+}
+
+h2{
+    z-index: 2;
+    font-size: 30px;
+    position: relative;
+    font-family: helvetica;
+    cursor: pointer;
+}
+
+
+img{
+    z-index: 1;
+    height: 80%;
+    position: fixed; 
+    margin: 10 10 10 10;
+    left: 200px;
+}
+
+.male{
+    -webkit-transform: rotate(0deg);
+}
+
+.female{
+    -webkit-transform: rotate(0deg);
+}
+
+.circl{
+    -webkit-transform: rotate(0deg);
+}
+
+.antifemale{
+    -webkit-transform: rotate(0deg);
+}
+
+.antimale{
+    -webkit-transform: rotate(0deg);
+}
+
+.dot{
+    -webkit-transform: rotate(150deg);
+}
+
+.circleMask{
+    visibility:hidden;
+    -webkit-transform: rotate(150deg);
+}

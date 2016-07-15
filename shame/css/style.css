@@ -1,0 +1,36 @@
+
+h1{
+    font-family: helvetica;
+    z-index: 2;
+    font-size: 50px;
+    color: darkgray;
+
+}
+
+p{
+    font-size: 16px;  
+    font-family: helvetica;
+}
+
+.shameWrap{
+    position: relative;
+    width: 800px;
+    margin: auto auto auto auto;
+}
+img:hover{
+
+}
+
+.yellow{
+}
+
+div{
+    
+}
+
+img{
+    z-index: -1;
+    width: 700px;
+    
+}
+
